@@ -1,2 +1,5 @@
 *.swp
 icon-new.png
+node_modules
+npm-debug.log
+
